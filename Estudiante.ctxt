@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=p_dniSocio\ p_nombre\ p_carrera
+comment0.target=Estudiante(int,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ estudiante\r\n
+comment1.params=p_carrera
+comment1.target=void\ setCarrera(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCarrera()
+comment3.params=
+comment3.target=boolean\ puedePedir()
+comment3.text=\r\n\ Verifica\ si\ es\ posible\ o\ no\ volver\ a\ realizar\ otro\ prestamo\r\n
+comment4.params=
+comment4.target=java.lang.String\ soyDeLaClase()
+comment4.text=\r\n\ Devuelve\ que\ es\ un\ tipo\ de\ socio\ Estudiante\ \r\n
+numComments=5

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=p_dniSocio\ p_nombre\ p_area
+comment0.target=Docente(int,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructo\ de\ la\ clase\ docente\r\n
+comment1.params=p_area
+comment1.target=void\ setArea(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getArea()
+comment3.params=
+comment3.target=boolean\ esResponsable()
+comment3.text=\r\n\ Verifica\ si\ el\ docente\ es\ responsable,\ enfocandose\ en\ los\ vencimientos\ de\ los\ libros\ prestados\ a\ este\r\n
+comment4.params=p_dias
+comment4.target=void\ agregarDiasDePrestamo(int)
+comment4.text=\r\n\ M\u00EF\u00BF\u00BDtodo\ que\ agrega\ dias\ adicionales\ a\ la\ fecha\ de\ entrega\ del\ libro\ en\ caso\ de\ que\ el\ docente\ sea\ responsable\r\n
+comment5.params=
+comment5.target=java.lang.String\ soyDeLaClase()
+comment5.text=\r\n\ Devuelve\ que\ es\ un\ socio\ de\ tipo\ Docente\r\n
+numComments=6
